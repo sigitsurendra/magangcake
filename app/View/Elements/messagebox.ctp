@@ -1,0 +1,1 @@
+<div class="messageboxcontent"><?php echo h($message); ?></div>
